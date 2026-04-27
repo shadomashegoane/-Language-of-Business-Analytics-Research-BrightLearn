@@ -1,0 +1,2 @@
+# -Language-of-Business-Analytics-Research-BrightLearn
+A research-based project focused on mastering the core vocabulary of an analyst . This glossary covers 38 critical concepts across four key areas: foundational analytics, data infrastructure, customer/sales KPIs, and marketing campaign metrics . It includes detailed distinctions between commonly confused terms like metrics vs. KPIs and CAC vs. CLV
